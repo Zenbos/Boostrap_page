@@ -1,3 +1,8 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
 .carousel-item img{
     margin: auto;
 width: 95%;
@@ -41,7 +46,7 @@ margin: auto;
 margin: auto;
 }
 .body{
-    width: 90%;
+    width: 100%;
     margin: 50px;
     background-color: #1a2530;
     color: #1a2530;
