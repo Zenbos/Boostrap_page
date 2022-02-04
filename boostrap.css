@@ -22,12 +22,12 @@ margin: auto;
 }
 .container19{
     padding: 10%;
-    background-color: #1a2530;
-    color: #1a2530;
+    background-color: rgb(0, 0, 0);
 margin: auto;
 }
 .body{
     width: 90%;
     margin: 50px;
-    background-color: ;
+    background-color: #1a2530;
+    color: #1a2530;
 }
