@@ -1,9 +1,16 @@
 .carousel-item img{
-margin: auto;
+    margin: auto;
 width: 95%;
 height: 660px;
 }
-
+.modal-header h4{
+    text-align: center;
+	font-family: 'Cherry Swash',cursive;
+    font-size: 16px;
+}
+.modal-header button{
+    margin: left;
+}
 .card{
     background-color: rgb(255, 0, 0);
     display: inline-block;
