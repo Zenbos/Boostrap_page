@@ -1,6 +1,6 @@
 .carousel-item img{
 margin: auto;
-width: 90%;
+width: 95%;
 height: 660px;
 }
 
@@ -13,4 +13,21 @@ height: 660px;
 
 .card2{
     background-color: rgb(0, 255, 128);
+}
+
+.container19 a{
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+margin: auto;
+}
+.container19{
+    padding: 10%;
+    background-color: #1a2530;
+    color: #1a2530;
+margin: auto;
+}
+.body{
+    width: 90%;
+    margin: 50px;
+    background-color: ;
 }
