@@ -1,4 +1,4 @@
-alert("primera alerta");
+// alert("primera alerta");
 var años = 5;
 
 //if (5)
