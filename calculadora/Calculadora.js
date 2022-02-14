@@ -1,6 +1,23 @@
 // CALCULADORA UTILIZANDO LOS PROMPT
 // 
 
+var b = parseInt(prompt("Ingrese el segundo numero"));
+var a = parseInt (prompt("Ingrese el primer numero"));
+var opcion = parseInt (prompt("1- Suma \n 2- Resta \n 3- Multiplicacion \n 4- Division"));
+
+switch(opcion) {
+case 1: alert( a + b);
+    break;
+case 2: alert( a - b);
+    break;
+case 3: alert( a * b);
+    break;
+case 4: alert( a / b);
+    break;
+default:
+alert("Esta opcion no esta registrada");
+    break;
+}
 
 //----------------------------------------------------------------------------------------------------------
 
@@ -18,6 +35,7 @@ function suma(){
         r.value = Suma;
     }
 }
+
 function resta(){
     if (n1.value == "" || n2.value == "") {
         alert("Ingrese los valores antes de realizar una operacion");
